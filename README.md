@@ -2,9 +2,9 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
-Painel de controle de contas, desenvolvido em **Vue** por Felipe Sales.
+Painel de controle de contas, desenvolvido em **Vue** por Felipe Santos.
 
-Conheça o [Vue](https://vuejs.org/) e o desenvolvedor [Felipe Sales](https://www.felipesales.com.br).
+Conheça o [Vue](https://vuejs.org/) e o desenvolvedor [Felipe Santos](https://www.felipess.com).
 
 ## Versão disponível
 
